@@ -14,8 +14,8 @@
 
 ### 📎 GitHub stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theuzalmeida&theme=blue_navy&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theuzalmeida&layout=donut&theme=blue_navy&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theuzalmeida&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theuzalmeida&layout=donut&theme=dark&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
