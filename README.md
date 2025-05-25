@@ -1,10 +1,10 @@
-# Olá! eu me chamo Matheus! 🌐
+# Olá! eu me chamo Matheus! 
 
 <img src="GitHub Banner.png">
 
 #
 
-### 🔵 Sobre mim
+### 📎 Sobre mim
 
 - 
 - 
@@ -12,14 +12,14 @@
 
 #
 
-### 🔵 GitHub stats
+### 📎 GitHub stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theuzalmeida&theme=blue_navy&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theuzalmeida&layout=donut&theme=blue_navy&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
-### 🔵 Tecnologias 
+### 📎 Tecnologias 
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35px">
