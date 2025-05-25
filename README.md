@@ -6,7 +6,7 @@
 
 ### 📎 Sobre mim
 
-- 
+- 🎓 Student of Systems Development
 - 
 - 
 
