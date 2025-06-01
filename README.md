@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Github-banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="Github-banner-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="github-banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="github-banner-light.png">
     <img alt="theuzalmeida" src="theuzalmeida/Github-banner-dark.png">
   </picture>
 </p>
