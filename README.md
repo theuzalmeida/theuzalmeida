@@ -17,11 +17,6 @@
 - 📫 **Contact:** Just send me a [message](mailto:contato.theuzalmeida@gmail.com).
 - 🧷 **Other forms of contact:** Visit my [LinkedIn](https://www.linkedin.com/in/matheus-almeida-99741b358/) or check out my [portfolio](https://matheusalmeida.vercel.app/).
 
-## 📎 GitHub stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theuzalmeida&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theuzalmeida&layout=donut&theme=dark&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📎 Technologies 
 
 <div>
