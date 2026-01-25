@@ -11,7 +11,6 @@
 <b>Hi! I'm Matheus A. Almeida, a self-proclaimed programmer, music enthusiast, movie fanatic, and coffee addict.</b>
 
 - 🎓 **Student of Systems Development**
-- 🧠 **Learning:** Node.js.
 - 🌎 **Living in:** Brazil.
 - 💬 **Languages:** Portuguese/English.
 - 📫 **Contact:** Just send me a [message](mailto:contato.theuzalmeida@gmail.com).
