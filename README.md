@@ -10,7 +10,7 @@
 
 <b>Hi! I'm Matheus A. Almeida, a self-proclaimed programmer, music enthusiast, movie fanatic, and coffee addict.</b>
 
-- 🎓 **Student of Systems Development**
+- 🎓 **Systems development technician and data science student**
 - 🌎 **Living in:** Brazil.
 - 💬 **Languages:** Portuguese/English.
 - 🧷 **Contact:** Visit my [LinkedIn](https://www.linkedin.com/in/matheus-almeida-99741b358/) or check out my [portfolio](https://matheusalmeida.vercel.app/).
