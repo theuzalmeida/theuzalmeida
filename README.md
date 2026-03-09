@@ -13,7 +13,6 @@
 - 🎓 **Student of Systems Development**
 - 🌎 **Living in:** Brazil.
 - 💬 **Languages:** Portuguese/English.
-- 📫 **Contact:** Just send me a [message](mailto:contato.theuzalmeida@gmail.com).
-- 🧷 **Other forms of contact:** Visit my [LinkedIn](https://www.linkedin.com/in/matheus-almeida-99741b358/) or check out my [portfolio](https://matheusalmeida.vercel.app/).
+- 🧷 **Contact:** Visit my [LinkedIn](https://www.linkedin.com/in/matheus-almeida-99741b358/) or check out my [portfolio](https://matheusalmeida.vercel.app/).
 
 <h6 align="center"><i>“You have to sacrifice who you are to become who you want to be.”</i> <br/> ─ Frank Betin</h6>
