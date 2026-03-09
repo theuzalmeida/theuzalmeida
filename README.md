@@ -8,8 +8,6 @@
 
 ## 📎 About me
 
-<b>Hi! I'm Matheus A. Almeida, a self-proclaimed programmer, music enthusiast, movie fanatic, and coffee addict.</b>
-
 - 🎓 **Systems development technician and data science student**
 - 🌎 **Living in:** Brazil.
 - 💬 **Languages:** Portuguese/English.
