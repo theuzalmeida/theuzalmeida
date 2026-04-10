@@ -5,7 +5,7 @@
     </td>
     <td valign="top">
       <h1>Matheus A. Almeida</h1>
-      <p>Desenvolvedor full-stack com formação técnica em desenvolvimento de sistemas e atualmente cursando ciência de dados. Meu trabalho abrange o desenvolvimento de software, criação de interfaces web e automações, sempre com foco na resolução de problemas por meio de código. Possuo experiência com diferentes linguagens de programação e busco constantemente construir soluções eficientes e funcionais. Meus principais interesses incluem desenvolvimento web, análise de dados, automação de processos e o aprimoramento contínuo das minhas habilidades técnicas. Sou falante nativo de português e possuo nível intermediário de inglês.</p>
+      <p>Desenvolvedor full-stack com formação técnica em <b>desenvolvimento de sistemas</b> e atualmente cursando <b>ciência de dados</b>. Meu trabalho abrange o desenvolvimento de software, criação de interfaces web e automações, sempre com foco na resolução de problemas por meio de código. Possuo experiência com diferentes linguagens de programação e busco constantemente construir soluções eficientes e funcionais. Meus principais interesses incluem desenvolvimento web, análise de dados, automação de processos e o aprimoramento contínuo das minhas habilidades técnicas. Sou falante nativo de português e possuo nível intermediário de inglês.</p>
       <h2>Áreas de Interesse</h2>
       <ul>
         <li>Desenvolvimento de software</li>
