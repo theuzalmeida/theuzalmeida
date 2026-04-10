@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td  width="400">
-      <img src="the-inferno-canto-8-1.jpeg" width="400" alt="Inferno Canto VIII - Gustave Doré">
+      <img src="Inferno Canto VIII - Gustave Doré.jpeg" width="400" alt="Inferno Canto VIII - Gustave Doré">
     </td>
     <td valign="top">
       <h1>Matheus A. Almeida</h1>
